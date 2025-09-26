@@ -54,7 +54,7 @@ FlavorGraph/
 │   ├── index.html          # Main HTML page
 │   ├── styles.css          # CSS styles with modern design
 │   └── script.js           # JavaScript for UI interactions and API calls
-├── TODO.md                 # Project task list
+├               
 └── README.md               # This file
 ```
 
